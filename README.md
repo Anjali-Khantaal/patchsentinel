@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [What is PatchSentinel?](#what-is-patchsentinel)
 2. [Why is it needed?](#why-is-it-needed)
-3. [How it works](#how-it-works)
+3. [How it works?](#how-it-works)
 4. [Quick Start](#quick-start)
 5. [Inside the Dev Container](#inside-the-dev-container)
 6. [Handy Make Commands](#handy-make-commands)
