@@ -1,0 +1,51 @@
+# ---------- Python ----------
+__pycache__/
+*.py[co]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+
+# ---------- Testing ----------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ---------- Type checking / linters ----------
+.mypy_cache/
+.ruff_cache/
+
+# ---------- Node / npm ----------
+node_modules/
+
+# ---------- StackStorm ----------
+/virtualenvs/
+/packs.dev/
+/st2.conf
+/alog/
+
+# ---------- Kubernetes / Kind ----------
+/kind-data/
+chart/
+release/
+
+# ---------- Editors & IDEs ----------
+.vscode/
+.idea/
+
+# ---------- Dev Container ----------
+.devcontainer/*.log
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ---------- Back-ups ----------
+*.swp
+*.bak
+
